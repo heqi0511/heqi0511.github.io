@@ -1,7 +1,7 @@
 ---
 title: "TA for CMSC 422"
 collection: teaching
-date: 2024-02-01
+date: Feb, 1, 2024
 ---
 
 regular TA experience.
