@@ -1,7 +1,7 @@
 ---
 title: "TA for CMSC 250"
 collection: teaching
-date: 2023-09-01
+date: Sep, 1, 2023
 ---
 
 regular TA experience.
