@@ -6,10 +6,6 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme
-
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Qi He homepage"
