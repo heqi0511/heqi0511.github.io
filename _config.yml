@@ -25,7 +25,7 @@ repository               : "heqi511.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/avatar.jpg"
+  avatar           : "avatar.jpg"
   name             : "Qi He"
   pronouns         : # example: "he/him"  
   bio              : ""
